@@ -19,31 +19,31 @@ A Flutter-based task management app with SQLite, SharedPreferences, and motivati
 <div align="center">
 
 ### Task List Screen
-![Task List](https://github.com/dhruvjivani/task_manager_hybrid_app/raw/main/Screenshot_20250703_191230.png)  
+![Task List](Screenshots/Screenshot_20250703_191230.png)  
 _A clean and organized list of tasks with swipe-to-delete and sorting options._
 
 ---
 
 ### Add Task Screen
-![Add Task](https://github.com/dhruvjivani/task_manager_hybrid_app/raw/main/Screenshot_20250703_191257.png)  
+![Add Task](Screenshots/Screenshot_20250703_191257.png)  
 _Add new tasks easily with due date picker and priority selection._
 
 ---
 
 ### Edit Task Screen
-![Edit Task](https://github.com/dhruvjivani/task_manager_hybrid_app/raw/main/Screenshot_20250703_191312.png)  
+![Edit Task](Screenshots/Screenshot_20250703_191312.png)  
 _Edit existing tasks with intuitive controls and save changes._
 
 ---
 
 ### Task Detail Screen
-![Task Details](https://github.com/dhruvjivani/task_manager_hybrid_app/raw/main/Screenshot_20250703_191325.png)  
+![Task Details](Screenshots/Screenshot_20250703_191325.png)  
 _View detailed task info and delete if needed._
 
 ---
 
 ### Motivational Quote & Sorting
-![Quote & Sorting](https://github.com/dhruvjivani/task_manager_hybrid_app/raw/main/Screenshot_20250703_191345.png)  
+![Quote & Sorting](Screenshots/Screenshot_20250703_191345.png)  
 _Get daily motivational quotes and sort your tasks for better productivity._
 
 </div>
