@@ -13,38 +13,38 @@ A Flutter-based task management app with SQLite, SharedPreferences, and motivati
 - Sleek, modern UI design.
 
 ---
-
 ## Screenshots
 
 <div align="center">
 
-### Task List Screen
-![Task List](Screenshots/Screenshot_20250703_191230.png)  
-_A clean and organized list of tasks with swipe-to-delete and sorting options._
-
----
-
-### Add Task Screen
-![Add Task](Screenshots/Screenshot_20250703_191257.png)  
-_Add new tasks easily with due date picker and priority selection._
-
----
-
-### Edit Task Screen
-![Edit Task](Screenshots/Screenshot_20250703_191312.png)  
-_Edit existing tasks with intuitive controls and save changes._
-
----
-
-### Task Detail Screen
-![Task Details](Screenshots/Screenshot_20250703_191325.png)  
-_View detailed task info and delete if needed._
-
----
-
-### Motivational Quote & Sorting
-![Quote & Sorting](Screenshots/Screenshot_20250703_191345.png)  
-_Get daily motivational quotes and sort your tasks for better productivity._
+<table>
+  <tr>
+    <td align="center" style="padding:10px;">
+      <img src="Screenshots/Screenshot_20250703_191230.png" alt="Task List" width="300" />
+      <p><b>Task List Screen</b><br><i>A clean and organized list of tasks with swipe-to-delete and sorting options.</i></p>
+    </td>
+    <td align="center" style="padding:10px;">
+      <img src="Screenshots/Screenshot_20250703_191257.png" alt="Add Task" width="300" />
+      <p><b>Add Task Screen</b><br><i>Add new tasks easily with due date picker and priority selection.</i></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding:10px;">
+      <img src="Screenshots/Screenshot_20250703_191312.png" alt="Edit Task" width="300" />
+      <p><b>Edit Task Screen</b><br><i>Edit existing tasks with intuitive controls and save changes.</i></p>
+    </td>
+    <td align="center" style="padding:10px;">
+      <img src="Screenshots/Screenshot_20250703_191325.png" alt="Task Detail" width="300" />
+      <p><b>Task Detail Screen</b><br><i>View detailed task info and delete if needed.</i></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" style="padding:10px;">
+      <img src="Screenshots/Screenshot_20250703_191345.png" alt="Quote & Sorting" width="620" />
+      <p><b>Motivational Quote & Sorting</b><br><i>Get daily motivational quotes and sort your tasks for better productivity.</i></p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
